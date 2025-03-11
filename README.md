@@ -1,5 +1,8 @@
 # Computational Techniques In Data Science
-Course content:
+This repository documents the implementations, experiments and insights gained in the Computational Techniques in Data Science unit as part of my MSc in Data Science.
+
+Course content is structured below. 
+
 | Week | Topics | Content |
 |------|--------|---------|
 | Week 1 | Introduction to Stochastic Programming | Stochastic programming, Role of Uncertainty in Decision-Making Models, Applications in Finance, Logistics, and Healthcare. **PYTHON** (numpy and cvxpy packages) |
