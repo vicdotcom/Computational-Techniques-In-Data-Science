@@ -6,7 +6,7 @@ A stochastic process is a mathematical model of systems or phenomena that are un
 ### Prerequisite: Deterministic Optimization
 Performing linear and non-linear optimization via SciPy and CvxPy libraries in Python. This is just to get familiar with the optimization libraries in Python....and also optimization when all variables are known with certainity (deterministic processes)
 
-The rest of course content is as follows:
+The rest of the course content is as follows:
 
 | Week | Topics |
 |------|--------|
