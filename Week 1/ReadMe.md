@@ -18,7 +18,7 @@ A decision-making framework that is divided into two stages:
   2. We then see a realization of the stochastic elements of the problem but are then allowed to make further decisions to avoid the constraints of the problem from becoming infeasible (recourse).
 
 ### Example: Amount of Goods to Produce
-Consider a simple manufacturing example. We have to make a decision about the amount of product X to produce. Each unit of X costs \$10 to make. X is made to meet demand $(D)$ in the next time period but demand is stochastic, with a discrete probability distribution: $demand= D_s$ $P_s= (d= 1, \dots, S)$. Or rather, having $S$ scenarios for possible future demand.
+Consider a simple manufacturing example. We have to make a decision about the amount of product X to produce. Each unit of X costs 10/- to make. X is made to meet demand $(D)$ in the next time period but demand is stochastic, with a discrete probability distribution: $demand= D_s$ $P_s= (d= 1, \dots, S)$. Or rather, having $S$ scenarios for possible future demand.
 
 Let's assume two scenarios:
   - demand > supply
