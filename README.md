@@ -10,7 +10,7 @@ The rest of course content is as follows:
 
 | Week | Topics | Content |
 |------|--------|---------|
-|![Week 1](https://github.com/vicdotcom/Computational-Techniques-In-Data-Science/tree/main/Week%201) | Introduction to Stochastic Programming | Stochastic programming, Role of Uncertainty in Decision-Making Models, Applications in Finance, Logistics, and Healthcare. **PYTHON** (numpy and cvxpy packages) |
+|[Week 1](https://github.com/vicdotcom/Computational-Techniques-In-Data-Science/tree/main/Week%201) | Introduction to Stochastic Programming | Stochastic programming, Role of Uncertainty in Decision-Making Models, Applications in Finance, Logistics, and Healthcare. **PYTHON** (numpy and cvxpy packages) |
 | Week 2 | Introduction to Random Walks | Definition of random walk, 1D & 2D Random Walks. **PYTHON** (numpy and matplotlib.pyplot packages) |
 | Week 3 | Introduction to Linear Optimization Problems | Optimizing a linear objective function with constraints. **Python Implementation**: Using scipy.optimize.linprog |
 | Week 4 | Introduction to Graph-theoretic Models | Graph Representation: Adjacency Matrix/List. Applications: Social networks, road maps, shortest paths. **Python Implementation**: Using networkx |
