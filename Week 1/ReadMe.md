@@ -29,3 +29,6 @@ We then have to decide how much to produce before demand is known. Say we produc
 ![Two-Stage](https://people.brunel.ac.uk/~mastjjb/jeb/or/STOCH1.GIF)
 
 The recourse decision is implemented mathematically when an optimization model is formulated to minimize the expected penalty cost arising from both scenarios. 
+
+## Tools
+Python libraries such as CVXPY, NumPy, and Matplotlib are used to model, solve, and visualize stochastic optimization problems.
