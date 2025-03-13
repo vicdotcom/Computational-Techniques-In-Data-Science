@@ -3,8 +3,8 @@ This repository documents the implementations, experiments and insights gained i
 
 A stochastic process is a mathematical model of systems or phenomena that are uncertain and appear to vary in a random manner over time. Because of their random-like nature, its variables are not known with certainty but rather are associated with probability distributions. This means that we cannot predict the exact value of the variable, but we can estimate its likelihood uisng computational techniques such as optimization, simulation, and so on...
 
-### Prerequisite: Optimization Methods in Python
-Performing linear and non-linear (deterministic) optimization via SciPy and CvxPy libraries in Python. This is just to get familiar with the optimization libraries in Python....and also optimization when all variables are known with certainity (deterministic processes)
+### Prerequisite: Deterministic Optimization
+Performing linear and non-linear optimization via SciPy and CvxPy libraries in Python. This is just to get familiar with the optimization libraries in Python....and also optimization when all variables are known with certainity (deterministic processes)
 
 The rest of course content is as follows:
 
