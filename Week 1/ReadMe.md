@@ -10,7 +10,7 @@ Stochastic programming is mathematical (i.e.- linear, non-linear, integer optimi
       - Stock prices: Might rise, fall, or stay constant, with specific probabilities
       - Demand levels: Could be low, medium, or high, each with a likelihood
   - **Objective Function**- Due to the uncertainity present, it typically involves expected value optimization. We account for all possible uncertain scenarios and determine the best possible minimum or maximum of the function.
-  - **Constraints**- They define the feasible region of the decsion variables. They can also be uncertain (probabilistic or chance constraints)
+  - **Constraints**- They define the feasible region of the decision variables. They can also be uncertain (probabilistic or chance constraints)
 
 ## The Two-Stage Stochastic Optimization Model (Recourse)
 A decision-making framework that is divided into two stages:
