@@ -14,6 +14,7 @@ where $z$ is the objective function, $c_i$ are the coefficients and $x_i$ are th
 
 The above objective function is subject to constraints which are linear equations or inequalities that limit the feasible region (the set of all possible solutions that satisfy the constraints of the problem). 
 
-$$A_x \leq b$$ Ineqiality Constraint
-$$A_x = b$$ Equality Constraint
+$$A_x \leq b$$
+$$A_x = b$$ 
 
+Where $A$ is the matrix of coeffiecients, $x$ is the vector of decision variables, and $b$ is the vector of constraints.
