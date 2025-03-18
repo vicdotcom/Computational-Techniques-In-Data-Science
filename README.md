@@ -10,6 +10,6 @@ The course content is as follows:
 
 | Week | Topics |
 |------|--------|
-|[Prerequisite] | Deterministic Optimization |
+|[Prerequisite](https://github.com/vicdotcom/Computational-Techniques-In-Data-Science/tree/main/Deterministic%20Optimization) | Deterministic Optimization |
 |[Week 1](https://github.com/vicdotcom/Computational-Techniques-In-Data-Science/tree/main/Week%201) | Introduction to Stochastic Programming |
 |[Week 2](https://github.com/vicdotcom/Computational-Techniques-In-Data-Science/tree/main/Week%202) | Random Walks |
