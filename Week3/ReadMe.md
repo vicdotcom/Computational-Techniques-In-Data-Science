@@ -4,6 +4,7 @@
 A random walk is a type of stochastic process where a variable takes steps randomly in some space (i.e.- time, position, value). It decsribes the current observation as equal to the previous observation plus a random change (i.e.- a random step up, down, left or right).
 
 $$X_t= X_(t-1) + w_t$$
+
 where $w_t$ is a rnadom step often drawn from a probability distribution. In time series, it could be described as _gaussian white noise_ if the random step follows a normal distribution.
 
 Random Walks can be either discrete or continuous:
