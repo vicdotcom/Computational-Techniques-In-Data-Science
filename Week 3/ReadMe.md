@@ -22,8 +22,9 @@ Where $A$ is the matrix of coeffiecients, $x$ is the vector of decision variable
 ## The Feasible Region & Optimal Solution
 The feasible region is defined as the set of all possible solutions that satisfy the constraints of the problem. If a set of variables satisy the stated constraints, then a feasible region from—which the optimal solution can be be determined—exists.
 
-![FeasibleRegion](https://www.researchgate.net/profile/Sam-Pullen/publication/266220942/figure/fig3/AS:667811777097733@1536230143173/Feasible-region-gray-colored-region-and-non-feasible-region-are-defined-by-a-set-of.png)
+![FeasibleRegion](https://postimg.cc/jWc2mp8G)
 
 Once the feasible region is determined, the optimal solution is then computed. It is the best solution (the global minimum or global maximum) from the feasible solutions.
+
 ![OptimalSolution](https://www.solver.com/sites/default/files/local-global75.jpg)
 
