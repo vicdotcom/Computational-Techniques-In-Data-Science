@@ -12,9 +12,12 @@ $$Z= c_1x_1 + c_2x_2 + \dots + c_nx_n$$
 
 where $z$ is the objective function, $c_i$ are the coefficients and $x_i$ are the decision variables.
 
-The above objective function is subject to constraints which are linear equations or inequalities that limit the feasible region (the set of all possible solutions that satisfy the constraints of the problem). 
+The above objective function is subject to constraints which are linear equations or inequalities that limit the feasible region. 
 
 $$A_x \leq b$$
 $$A_x = b$$ 
 
 Where $A$ is the matrix of coeffiecients, $x$ is the vector of decision variables, and $b$ is the vector of constraints.
+
+## The Feasible Region & Optimal Solution
+The feasible region is defined as the set of all possible solutions that satisfy the constraints of the problem. If a set of variables satisy the stated constraints, then a feasible region from——which the optimal solution can be be determined——exists.
