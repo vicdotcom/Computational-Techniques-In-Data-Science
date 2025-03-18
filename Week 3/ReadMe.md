@@ -14,6 +14,6 @@ where $z$ is the objective function, $c_i$ are the coefficients and $x_i$ are th
 
 The above objective function is subject to constraints which are linear equations or inequalities that limit the feasible region (the set of all possible solutions that satisfy the constraints of the problem). 
 
-$$A_x \leq b \text(  Inequality Constraint)$$
-$$A_x = b \text(  Equality Constraint)$$
+$$A_x \leq b$$ Ineqiality Constraint
+$$A_x = b$$ Equality Constraint
 
