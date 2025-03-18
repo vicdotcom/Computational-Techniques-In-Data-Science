@@ -23,6 +23,6 @@ $$w_t \in (-1, +1)$$
 ### 2D Random Walk
 Allows movement in two perpendicular directions (i.e.- left and right; up and down). The position is defined as $(X_t, Y_t)$ with each step being:
 
-$$(X_{t+1}, Y_{t+1}= (X_t + w_t, y_t + \epsilon_t)$$
+$$(X_{t+1}), Y_{t+1}= (X_t + w_t, y_t + \epsilon_t)$$
 
 Examples- Particle diffusion in physics, Brownian motion.
