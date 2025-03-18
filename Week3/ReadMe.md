@@ -9,7 +9,7 @@ where $w_t$ is a rnadom step often drawn from a probability distribution. In tim
 
 Random Walks can be either discrete or continuous:
 - **Discrete:** Where the variable moves in discrete steps (e.g.- [-1, +1]) with equal or unequal probability. Examples include daily stock price, a person randomly stepping left or right)
-- **Continuous:** Where the process evolves continuously over time and the step size follows a normal distribution $W_t ~ N(0, \sigma^2)$. E.g.- Brownian motion.
+- **Continuous:** Where the process evolves continuously over time and the step size follows a normal distribution $W_t \sim N(0, \sigma^2)$. E.g.- Brownian motion.
 
 ## 1D and 2D Random Walk
 ### 1D Random Walk
@@ -17,4 +17,5 @@ Occurs when movement is restrivted to a single axis, i.e.- left or right along a
 
 Mathermatically, the position at each step updates as:
 
-$$X_(t+1)- x_t + w_t \space \space\space\space\space\space\space\space\space\space w_t \in (-1, +1)$$
+$$X_(t+1)- x_t + w_t$$ 
+$$w_t \in (-1, +1)$$
