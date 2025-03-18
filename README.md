@@ -11,3 +11,4 @@ The rest of the course content is as follows:
 | Week | Topics |
 |------|--------|
 |[Week 1](https://github.com/vicdotcom/Computational-Techniques-In-Data-Science/tree/main/Week%201) | Introduction to Stochastic Programming |
+|[Week 2](https://github.com/vicdotcom/Computational-Techniques-In-Data-Science/tree/main/Week%202) | Random Walks |
