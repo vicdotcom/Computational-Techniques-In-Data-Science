@@ -28,3 +28,5 @@ Once the feasible region is determined, the optimal solution is then computed. I
 
 ![OptimalSolution](https://www.solver.com/sites/default/files/local-global75.jpg)
 
+LP is a technique of making decisions under the conditions of certainty which stipulates that all objectives and constraints are quantified.
+
