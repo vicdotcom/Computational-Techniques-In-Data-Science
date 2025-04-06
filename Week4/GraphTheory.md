@@ -4,4 +4,4 @@ A graph $(G)$ is a mathematical structure used to model pairwise relationships b
 
 ![GraphExample](https://i.postimg.cc/RFpyhGfX/Graph-Example.png)
 
-It consists of vertices $V(G)= \{a,b,c,d,e\}$ and edges $E(G)= {ab, bc, cd, de, ae}$
+It consists of vertices $V(G)= \\{a,b,c,d,e\\}$ and edges $E(G)= \\{ab, bc, cd, de, ae\\}$
