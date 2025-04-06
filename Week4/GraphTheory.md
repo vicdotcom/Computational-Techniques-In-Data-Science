@@ -12,7 +12,8 @@ Two edges that share a common vertice are said to be **incident**. e.g.- $ae$ an
 
 The **neighbours** of a vertex are the vertices it is adjacent to. e.g.- Neighbours to $a$ are $b$, $d$, and $e$.
 
-The **degree** of a vertex is the number of edges it is an endpoint of. e.g.- $deg(d)= 4 \space\\{ad, cd, ed\\}$
-$deg(b)= 2 \space \\{ab, cb\\}$
+The **degree** of a vertex is the number of edges it is an endpoint of. e.g.- 
+- $deg(d)= 4 \space\\{ad, cd, ed\\}$
+- $deg(b)= 2 \space \\{ab, cb\\}$
 
 
