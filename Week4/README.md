@@ -26,3 +26,8 @@ The **degree** of a vertex is the number of edges it is an endpoint of.
 7. Acyclic Graph – No cycles (A connected graph that contains no cycles is refered to as a (minimum) spanning tree)
 8. Bipartite Graph – Vertices can be divided into two disjoint sets with edges only between sets.
 
+## Applications
+1. **Transportation & logistics:** Graphs model optimal (eg- shortest, least costly) routes to minimize delays and high costs, minimize costs in manufacturing/distribution networks, traffic and road/highway networks.
+2. **Biology and medicine:** Disease spread modelling with people as nodes and interactions as edges.
+3. **Electrical Design:** Model power stations and transmission lines
+
